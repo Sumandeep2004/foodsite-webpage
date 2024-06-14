@@ -1,0 +1,161 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+ .container{
+	width: 1170px;
+	height: auto;
+	margin: 0 auto;
+} 
+.container1{
+    width:100%;
+    height:500px;
+    
+    margin: 0 auto;  
+    background-image: url(images/imgfood.png);
+   
+    background-size:cover;
+    background-repeat: no-repeat;  
+   
+}
+
+.nav{
+    padding-top: 15px;
+    padding-left: 650px;
+    font-size: medium;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.logo{
+    background-image: url(images/foodlogo.png);
+    height:100px;
+    width: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-top: 0px;
+}
+.contact{
+    float:inline-end;
+    height:100px;
+    width:250px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content1{
+    height:700px;
+    
+   
+}
+.container2{
+    height: 700px;
+    width: 100%;
+    
+}
+#img2{height:400px;
+    width: 100%;
+    background-image: url(images/imgfood2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.boxes{
+    height:100px;
+   width: 300px;
+}
+#flex{
+    display: flex;
+    
+}
+.flex1{
+margin-left: 70px;
+}
+.flex2{
+    margin-left: 90px;
+}
+.flex3{
+    margin-left: 30px;
+}
+
+.order{
+    height: 30px;
+    width:150px;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#flex2{
+    display: flex;
+    justify-content: flex-start;
+}
+.box1{
+    margin-left: 110px;
+}
+.box2{
+    margin-left: 240px;
+   
+}
+.box3{
+    margin-left: 250px;
+}
+#img3{
+    height:300px;
+    width: 100%;
+    background-image: url(images/Screenshot\ 2024-06-13\ 090227.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 90px;
+    margin-top: 40px;
+}
+#img4{
+    height:350px;
+    width: 100%;
+    background-image: url(images/foodimg4.png);
+    background-repeat: no-repeat;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+.container4{
+    height: 140px;
+    width:100%;
+}
+table{
+    border-spacing: 20px;
+}
+input{
+    height: 40px;
+    width: 250px;
+}
+.container5{
+    height:450px ;
+    width: 100%;
+    background-image: url(images/footerback.png);
+    background-size: contain;
+}
+#logo2{
+    background-image: url(images/foodlogo.png);
+    height:100px;
+    width: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 200px;
+}
+#text{
+    color:white;
+    margin-left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#contact2{
+    color:yellow;
+    margin-left: 850px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#footline{
+    color: white;
+    margin-top:120px ;
+    margin-left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
